@@ -1,3 +1,4 @@
+![0--deploy-node-app-schema](https://github.com/ltcbuzy/Deploying-Node.js-applications-with-PM2/assets/96268218/ef675077-1ed3-43ef-8dda-459df23c32eb)
 # Deploying-Node.js-applications-with-PM2
 Effortlessly deploy and manage Node.js applications with PM2. Ensure optimal performance, easy monitoring, and seamless deployment on your server. Follow [TargetedVisitors](https://targeted-visitors.com) ;step-by-step guide for a streamlined and efficient process
 Deploying Node.js applications with PM2 on Vultr is a streamlined process that ensures efficient performance and easy management of your applications. Here's a step-by-step guide to help you through the deployment:
